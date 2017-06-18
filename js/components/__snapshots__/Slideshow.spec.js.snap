@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slideshow snapshot test 1`] = `
+<div
+  className="flickr-search"
+>
+  <div
+    className="stage"
+  >
+    <Header
+      onQuerySent={[Function]}
+      onResultsReceived={[Function]}
+    />
+    <Header
+      onNavigateLeft={[Function]}
+      onNavigateRight={[Function]}
+      photo={null}
+    />
+  </div>
+  <Slideshow
+    chosenPhotoIndex={0}
+    className="thumbnails"
+    onPhotoClick={[Function]}
+    photos={Array []}
+  />
+</div>
+`;

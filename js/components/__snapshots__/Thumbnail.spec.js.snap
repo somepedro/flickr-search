@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Thumbnail snapshot test 1`] = `
+<div
+  className="thumbnail-frame"
+>
+  <img
+    className="thumbnail"
+    src="https://farm5.staticflickr.com/4248/35335748176_d79bd5eea3.jpg"
+    title="_MG_5475"
+  />
+</div>
+`;
